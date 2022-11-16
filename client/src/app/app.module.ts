@@ -44,7 +44,7 @@ import { DateInputsComponent } from './_forms/date-inputs/date-inputs.component'
     MemberEditComponent,
     PhotoEditorComponent,
     TextInputsComponent,
-    DateInputsComponent
+    DateInputsComponent,
   ],
   imports: [
     BrowserModule,
